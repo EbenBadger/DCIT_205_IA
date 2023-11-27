@@ -309,3 +309,49 @@ button {
     border-radius: 10px;
     margin-right: 20px;
 }
+
+/* faculty page  */
+#sub-header2 {
+    background-color: white;
+    background-image:linear-gradient(rgba(250, 210, 230, 0.1),rgba(250, 210, 230, 0.1)), url(Images/background3.jpg);
+}
+#sub-header2 h1{
+    margin: 50px;
+    text-align: center;
+}
+.body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 50vh;
+    margin-bottom: 50px;
+}
+.lecturer-pic-container {
+    background: pink;
+    width: 100%;
+    border-radius: 15px;
+    padding: 20px;
+}
+hr {
+    width: 90%;
+}
+.lecturer-pic-container h3 {
+    text-align: center;
+}
+.lecturers {
+    display: flex;
+    justify-content: space-around;
+}
+.lecturer-col {
+    margin: 8px;
+}
+.lecturer-col img {
+    width: 200px;
+    border-radius: 50%;
+    height: 200px;
+}
+.lecturers h4,p {
+    text-align: center;
+    font-size: 14px;
+    margin: 7px;
+}
