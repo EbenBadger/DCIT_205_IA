@@ -69,6 +69,7 @@ nav img{
     line-height: 40px;
     text-align: right;
     font-family: 'Poppins', sans-serif;
+    color: #DDA15E;
 }
 @media (max-width: 1200px) {
     .box {
@@ -151,7 +152,9 @@ p{
     text-align: center;
     padding: 100px 0;
 }
-
+#access-course a {
+    list-style: none;
+}
 #access-course h3 {
     color: #FEFAE0;
     margin: 40px;
@@ -437,4 +440,12 @@ hr {
 .event-info p {
     text-align: left;
     font-size: 20px;
+}
+
+/* courses page */
+.course-range h3 {
+    text-align: center;
+}
+.course-range p {
+    text-align: left;
 }
