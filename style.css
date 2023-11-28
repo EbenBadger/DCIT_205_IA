@@ -355,3 +355,32 @@ hr {
     font-size: 14px;
     margin: 7px;
 }
+
+/* research page  */
+#research h1 {
+    text-align: center;
+    text-transform: capitalize;
+}
+#research p {
+    font-size: 18px;
+    text-align: left;
+}
+#research li {
+    font-size: 18px;
+}
+
+/* events page */
+#sub-header4 {
+    background-color: white;
+    background-image:linear-gradient(rgba(250, 210, 230, 0.1),rgba(250, 210, 230, 0.1)), url(Images/event_background2.jpg);
+}
+#sub-header4 h1{
+    text-align: center;
+}
+.event-info h3 {
+    font-size: 22px;
+}
+.event-info p {
+    text-align: left;
+    font-size: 20px;
+}
