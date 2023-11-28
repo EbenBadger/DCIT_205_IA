@@ -379,6 +379,7 @@ hr {
 }
 .event-info h3 {
     font-size: 22px;
+    margin-left: 5px;
 }
 .event-info p {
     text-align: left;
