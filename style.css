@@ -39,7 +39,7 @@ nav img{
 }
 
 .nav-links ul li:hover {
-    background: rgb(159, 117, 10);
+    background: #FEFAE0;
     transition: all .2s;
 }
 
